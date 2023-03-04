@@ -1,3 +1,8 @@
-const MyNote = () => (<div>نوشته من</div>);
+const MyNote = () => (
+    <div>
+        <textarea className="my-input" placeholder="چی توی ذهنت هست؟">
+        </textarea>
+    </div>
+);
 
 export default MyNote;
