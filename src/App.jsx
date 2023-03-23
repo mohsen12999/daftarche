@@ -1,7 +1,9 @@
+import MyNote from "./pages/MyNote";
+
 function App() {
   return (
     <div className="App">
-      پروژه دفترچه
+      <MyNote />
     </div>
   )
 }
