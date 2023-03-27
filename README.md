@@ -22,7 +22,7 @@ npm i && npm run dev
 
 - [توضیحات قسمت اول](/docs/daftarche-part-1.pdf)
 - [توضیحات قسمت دوم](/docs/daftarche-part-2.pdf)
-- [چه طور پروژه‌ای را شروع کنیم](/docs/starting-a-project.pdf)
+- [چه طور پروژه‌ای را شروع کنیم](/docs/start-a-project.pdf)
 - [چه طور پروژه‌ای را تمام کنیم](/docs/finish-a-project.pdf)
 
 ## ویدئو‌های پروژه
