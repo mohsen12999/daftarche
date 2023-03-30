@@ -27,7 +27,8 @@ npm i && npm run dev
 
 ## ویدئو‌های پروژه
 
-- [قسمت اول - شروع پروژه](https://www.youtube.com/watch?v=YfJkWwZDIS8)
+- [قسمت اول - شروع پروژه](https://youtu.be/YfJkWwZDIS8)
+- [قسمت دوم - جمع کردن پروژه](https://youtu.be/-OeXiyJ_H6E)
 
 ## مشارکت در پروژه
 
