@@ -1,6 +1,6 @@
 import AllNotes from "./components/AllNotes";
 import MyNote from "./components/MyNote";
-
+import Footer from "./components/Footer";
 import "./App.css"
 
 function App() {
@@ -8,6 +8,7 @@ function App() {
     <div className="App">
       <MyNote />
       <AllNotes />
+      <Footer/>
     </div>
   )
 }
